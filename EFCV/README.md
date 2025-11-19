@@ -90,16 +90,6 @@ EFCV/
 └── README.md
 ```
 
-## Performance
-
-Results on four benchmark datasets:
-
-| Dataset | Accuracy | Precision | Recall | F1-Score |
-|---------|----------|-----------|--------|----------|
-| MR2_Chinese | 93.28% | 91.06% | 95.32% | 93.14% |
-| MR2_English | 92.68% | 92.39% | 88.54% | 90.43% |
-| Weibo | 94.49% | 94.24% | 95.78% | 95.01% |
-| PHEME | 81.68% | 68.33% | 69.49% | 68.91% |
 
 ## Citation
 
@@ -109,7 +99,7 @@ If you find this work useful, please cite our paper:
 @article{efcv2025,
   title={EFCV: Entity-aware Fusion of Consistency and Visual Clues for Multimodal Fake News Detection},
   author={Jin, Hongyu and Zhang, Mingshu and Bin, Wei and Zhang, Yuechuan and Wang, Yaxuan},
-  journal={Neurocomputing},
+  journal={},
   year={2025}
 }
 ```
@@ -117,3 +107,4 @@ If you find this work useful, please cite our paper:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
