@@ -1,6 +1,6 @@
 # EFCV: Entity-aware Fusion of Consistency and Visual Clues
 
-Official PyTorch implementation of "EFCV: Entity-aware Fusion of Consistency and Visual Clues for Multimodal Fake News Detection" (Neurocomputing 2025).
+Official PyTorch implementation of "EFCV: Entity-aware Fusion of Consistency and Visual Clues for Multimodal Fake News Detection" (2025).
 
 ## Overview
 
